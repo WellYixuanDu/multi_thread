@@ -1,0 +1,3 @@
+/home/wellyx/my_code/multi_thread/ATM/build/CMakeFiles/main.dir
+/home/wellyx/my_code/multi_thread/ATM/build/CMakeFiles/edit_cache.dir
+/home/wellyx/my_code/multi_thread/ATM/build/CMakeFiles/rebuild_cache.dir
