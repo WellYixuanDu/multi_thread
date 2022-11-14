@@ -55,6 +55,7 @@ struct issue_money {
     issue_money(unsigned amount_) : amount(amount_)
     {}
 };
+
 struct verify_pin {
     std::string account;
     std::string pin;
